@@ -77,7 +77,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
   
   <div>
     <h2>Home Page</h2>
-    <img src="./src/Project Result Img/Home.jpeg" alt="u5wwer.png" border="0">
+    <img src="./ecommerce/src/Project Result Img/Home.jpeg" alt="u5wwer.png" border="0">
   </div>
 
   <br /> 
@@ -86,7 +86,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Login Page</h2>
-    <img src="./src/Project Result Img/Login.jpeg" alt="2" border="0">
+    <img src="./ecommerce/src/Project Result Img/Login.jpeg" alt="2" border="0">
   </div>
 
   <br /> 
@@ -95,7 +95,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Register Page</h2>
-    <img src="./src/Project Result Img/Register.jpeg" alt="3" border="0">
+    <img src="./ecommerce/src/Project Result Img/Register.jpeg" alt="3" border="0">
   </div>
 
   <br /> 
@@ -104,7 +104,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Product List Page</h2>
-    <img src="./src/Project Result Img/ProductList.jpeg" alt="4" border="0">
+    <img src="./ecommerce/src/Project Result Img/ProductList.jpeg" alt="4" border="0">
   </div>
 
   <br /> 
@@ -113,7 +113,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Product Part</h2>
-    <img src="./src/Project Result Img/Product.jpeg" alt="5" border="0">
+    <img src="./ecommerce/src/Project Result Img/Product.jpeg" alt="5" border="0">
   </div>
 
   <br /> 
@@ -122,7 +122,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Shop Basket(Cart) Page</h2>
-    <img src="./src/Project Result Img/Cart.jpeg" alt="6" border="0">
+    <img src="./ecommerce/src/Project Result Img/Cart.jpeg" alt="6" border="0">
   </div>
   
 </div>
@@ -134,7 +134,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
   
   <div>
     <h2>Home Page</h2>
-    <img src="./src/Project Result Img/ResHome.jpeg" alt="u5wwer.png" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResHome.jpeg" alt="u5wwer.png" border="0">
   </div>
 
   <br /> 
@@ -143,7 +143,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Login Page</h2>
-    <img src="./src/Project Result Img/ResLogin.jpeg" alt="2" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResLogin.jpeg" alt="2" border="0">
   </div>
 
   <br /> 
@@ -152,7 +152,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Register Page</h2>
-    <img src="./src/Project Result Img/ResRegister.jpeg" alt="3" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResRegister.jpeg" alt="3" border="0">
   </div>
 
   <br /> 
@@ -161,7 +161,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Product List Page</h2>
-    <img src="./src/Project Result Img/ResProductList.jpeg" alt="4" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResProductList.jpeg" alt="4" border="0">
   </div>
 
   <br /> 
@@ -170,7 +170,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Product Part</h2>
-    <img src="./src/Project Result Img/ResProduct.jpeg" alt="5" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResProduct.jpeg" alt="5" border="0">
   </div>
 
   <br /> 
@@ -179,7 +179,7 @@ Bu konuda açık konuşmak istersem benim için çok güzel bir challange oldu. 
 
   <div>
     <h2>Shop Basket(Cart) Page</h2>
-    <img src="./src/Project Result Img/ResCart.jpeg" alt="6" border="0">
+    <img src="./ecommerce/src/Project Result Img/ResCart.jpeg" alt="6" border="0">
   </div>
   
   
